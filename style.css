@@ -1,0 +1,45 @@
+.carousel-item img {
+  height: 600px; 
+  width: 100%; 
+  object-fit: cover; 
+}
+
+.row {
+  margin-top: 20px; 
+}
+
+.navbar {
+  background-color: #122641;
+}
+.navbar .btn-outline-success  { 
+  border-style: solid; 
+  border-color: yellow;
+  color: yellow;
+  background-color: #122641;
+}
+
+form {
+  width: 900px; 
+}
+.prime-firsati {
+  color: white;
+  font-size: 14px; 
+  background-color: pink; 
+}
+.footer {
+  background-color: #2c3c5a;
+  color: white;
+  padding: 20px 0;
+}
+.footer .row:first-child {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.footer .row:last-child {
+  text-align: center;
+}
+.footer hr {
+  margin: 0 auto 20px; 
+  width: 90%; 
+}
